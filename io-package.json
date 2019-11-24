@@ -1,0 +1,78 @@
+{
+  "common": {
+    "name": "material-webfont",
+    "version": "0.0.1",
+    "news": {
+      "0.0.1": {
+        "en": "initial release",
+        "de": "Erstveröffentlichung",
+        "ru": "Начальная версия",
+        "pt": "lançamento inicial",
+        "nl": "Eerste uitgave",
+        "fr": "Première version",
+        "it": "Versione iniziale",
+        "es": "Versión inicial",
+        "pl": "Pierwsze wydanie",
+        "zh-cn": "首次出版"
+      }
+    },
+    "title": "Material Design Webfont",
+    "titleLang": {
+      "en": "Material Design Webfont",
+      "de": "Material Design Webfont",
+      "ru": "Материал Дизайн Webfont",
+      "pt": "Material Design Webfont",
+      "nl": "Materiaalontwerp Webfont",
+      "fr": "Conception de matériel Webfont",
+      "it": "Material Design Webfont",
+      "es": "Diseño de materiales Webfont",
+      "pl": "Material Design Webfont",
+      "zh-cn": "材质设计Webfont"
+    },
+    "desc": {
+      "en": "Material Design Webfont",
+      "de": "Material Design Webfont",
+      "ru": "Материал Дизайн Webfont",
+      "pt": "Material Design Webfont",
+      "nl": "Materiaalontwerp Webfont",
+      "fr": "Conception de matériel Webfont",
+      "it": "Material Design Webfont",
+      "es": "Diseño de materiales Webfont",
+      "pl": "Material Design Webfont",
+      "zh-cn": "材质设计Webfont"
+    },
+    "authors": [
+      "om2804 <om2804@mail.ru>"
+    ],
+    "keywords": [
+      "material",
+      "GUI",
+      "ioBroker",
+      "vis"
+    ],
+    "license": "MIT",
+    "platform": "Javascript/Node.js",
+    "main": "main.js",
+    "icon": "material-webfont.png",
+    "enabled": true,
+    "extIcon": "https://raw.githubusercontent.com/om2804/ioBroker.material-webfont/master/admin/material-webfont.png",
+    "readme": "https://github.com/om2804/ioBroker.material-webfont/blob/master/README.md",
+    "loglevel": "info",
+    "restartAdapters": [
+      "vis"
+    ],
+    "localLink": "%web_protocol%://%ip%:%web_port%/vis/widgets/material-webfont/index.html",
+    "singleton": true,
+    "type": "visualization-widgets",
+    "mode": "once",
+    "dependencies": [
+      "vis"
+    ],
+    "installedFrom": "/iobroker/iobroker.material-webfont/"
+  },
+  "native": {
+    "always": true
+  },
+  "objects": [],
+  "instanceObjects": []
+}
