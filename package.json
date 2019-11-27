@@ -1,12 +1,12 @@
 {
-  "name": "iobroker.material-webfont",
+  "name": "iobroker.vis-material-webfont",
   "version": "0.0.1",
   "description": "Material Design Webfont",
   "author": {
     "name": "om2804",
     "email": "om2804@mail.ru"
   },
-  "homepage": "https://github.com/om2804/ioBroker.material-webfont",
+  "homepage": "https://github.com/om2804/ioBroker.vis-material-webfont",
   "license": "Apache-2.0",
   "keywords": [
     "material",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/om2804/ioBroker.material-webfont"
+    "url": "https://github.com/om2804/ioBroker.vis-material-webfont"
   },
   "dependencies": {},
   "devDependencies": {
@@ -32,9 +32,9 @@
     "test": "npm run test:package"
   },
   "bugs": {
-    "url": "https://github.com/om2804/ioBroker.material-webfont/issues"
+    "url": "https://github.com/om2804/ioBroker.vis-material-webfont/issues"
   },
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
   "directories": {
     "lib": "lib",
     "test": "test"

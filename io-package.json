@@ -1,6 +1,6 @@
 {
   "common": {
-    "name": "material-webfont",
+    "name": "vis-material-webfont",
     "version": "0.0.1",
     "news": {
       "0.0.1": {
@@ -55,8 +55,8 @@
     "main": "main.js",
     "icon": "material-webfont.png",
     "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/om2804/ioBroker.material-webfont/master/admin/material-webfont.png",
-    "readme": "https://github.com/om2804/ioBroker.material-webfont/blob/master/README.md",
+    "extIcon": "https://raw.githubusercontent.com/om2804/ioBroker.vis-material-webfont/master/admin/material-webfont.png",
+    "readme": "https://github.com/om2804/ioBroker.vis-material-webfont/blob/master/README.md",
     "loglevel": "info",
     "restartAdapters": [
       "vis"
