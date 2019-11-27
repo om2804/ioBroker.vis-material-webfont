@@ -7,7 +7,7 @@
     "email": "om2804@mail.ru"
   },
   "homepage": "https://github.com/om2804/ioBroker.material-webfont",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "material",
     "GUI",
@@ -35,4 +35,8 @@
     "url": "https://github.com/om2804/ioBroker.material-webfont/issues"
   },
   "readmeFilename": "README.md"
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
 }
