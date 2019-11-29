@@ -62,16 +62,16 @@
       "vis"
     ],
     "localLink": "%web_protocol%://%ip%:%web_port%/vis/widgets/material-webfont/index.html",
+    "onlyWWW": true,
+    "noConfig": true,
     "singleton": true,
     "type": "visualization-widgets",
     "mode": "once",
     "dependencies": [
       "vis"
-    ],
-    "installedFrom": "/iobroker/iobroker.material-webfont/"
+    ]    
   },
-  "native": {
-    "always": true
+  "native": {    
   },
   "objects": [],
   "instanceObjects": []
