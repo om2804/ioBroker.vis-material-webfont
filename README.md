@@ -49,6 +49,9 @@ To see more (/widgets/material-webfont/css/materialdesignicons.css)
 
 ## Changelog
 
+### 0.0.2
+* (om2804) fixes
+
 ### 0.0.1
 * (om2804) initial release
 
