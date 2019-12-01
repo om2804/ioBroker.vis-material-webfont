@@ -49,7 +49,7 @@ To see more (/widgets/material-webfont/css/materialdesignicons.css)
 
 ## Changelog
 
-### 0.0.2
+### 0.0.3
 * (om2804) fixes
 
 ### 0.0.1
