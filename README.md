@@ -58,7 +58,7 @@ To see more (/widgets/material-webfont/css/materialdesignicons.css)
 ## License
 Apache 2.0 and SIL Open Font License 1.1
 
-Copyright (c) 2019 om2804 <om2804@mail.ru>
+Copyright (c) 2019-2025 om2804 <om2804@mail.ru>
 
 Copyright (c) 2014, Austin Andrews (http://materialdesignicons.com/),
 with Reserved Font Name Material Design Icons.
