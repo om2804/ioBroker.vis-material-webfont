@@ -56,7 +56,6 @@
     ],
     "license": "MIT",
     "platform": "Javascript/Node.js",
-    "main": "main.js",
     "icon": "material-webfont.png",
     "enabled": true,
     "extIcon": "https://raw.githubusercontent.com/om2804/ioBroker.vis-material-webfont/master/admin/material-webfont.png",
