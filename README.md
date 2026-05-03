@@ -55,6 +55,8 @@ To see more (/widgets/material-webfont/css/materialdesignicons.css)
 ### 0.0.1
 * (om2804) initial release
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 Apache 2.0 and SIL Open Font License 1.1
 
