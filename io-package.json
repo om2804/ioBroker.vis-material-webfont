@@ -3,7 +3,7 @@
     "name": "vis-material-webfont",
     "version": "0.0.2",
     "news": {
-	  "0.0.3": {
+      "0.0.3": {
         "en": "Fixes",
         "ru": "Исправления"
       },
@@ -67,16 +67,17 @@
     ],
     "localLink": "%web_protocol%://%ip%:%web_port%/vis/widgets/material-webfont/index.html",
     "onlyWWW": true,
-    "noConfig": true,
     "singleton": true,
     "type": "visualization-widgets",
     "mode": "once",
     "dependencies": [
       "vis"
-    ]    
+    ],
+    "adminUI": {
+      "config": "none"
+    }
   },
-  "native": {    
-  },
+  "native": {},
   "objects": [],
   "instanceObjects": []
 }
